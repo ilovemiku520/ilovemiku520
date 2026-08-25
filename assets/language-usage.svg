@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="300" viewBox="0 0 620 300" role="img" aria-labelledby="title desc">
+  <title id="title">Language usage across public repositories</title>
+  <desc id="desc">Python 76.4 percent, TypeScript 11.1 percent, PowerShell 7.0 percent, JavaScript 2.7 percent, CSS 2.2 percent, and other languages 0.6 percent.</desc>
+  <style>
+    .label { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #24292f; }
+    .value { font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
+    .caption { font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #6e7781; }
+    @media (prefers-color-scheme: dark) {
+      .label { fill: #f0f6fc; }
+      .value { fill: #b1bac4; }
+      .caption { fill: #8c959f; }
+    }
+  </style>
+
+  <g transform="rotate(-90 145 145)" fill="none" stroke-width="48">
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#d8dee4" opacity="0.35" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#3572A5" stroke-dasharray="76.4 23.6" stroke-dashoffset="0" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#3178C6" stroke-dasharray="11.1 88.9" stroke-dashoffset="-76.4" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#012456" stroke-dasharray="7 93" stroke-dashoffset="-87.5" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#F1E05A" stroke-dasharray="2.7 97.3" stroke-dashoffset="-94.5" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#563D7C" stroke-dasharray="2.2 97.8" stroke-dashoffset="-97.2" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#8C959F" stroke-dasharray="0.6 99.4" stroke-dashoffset="-99.4" />
+  </g>
+
+  <text x="145" y="139" text-anchor="middle" class="label">Public repos</text>
+  <text x="145" y="161" text-anchor="middle" class="value">language mix</text>
+
+  <g transform="translate(300 47)">
+    <circle cx="7" cy="7" r="7" fill="#3572A5" />
+    <text x="25" y="12" class="label">Python</text>
+    <text x="235" y="12" text-anchor="end" class="value">76.4%</text>
+
+    <circle cx="7" cy="43" r="7" fill="#3178C6" />
+    <text x="25" y="48" class="label">TypeScript</text>
+    <text x="235" y="48" text-anchor="end" class="value">11.1%</text>
+
+    <circle cx="7" cy="79" r="7" fill="#012456" />
+    <text x="25" y="84" class="label">PowerShell</text>
+    <text x="235" y="84" text-anchor="end" class="value">7.0%</text>
+
+    <circle cx="7" cy="115" r="7" fill="#F1E05A" />
+    <text x="25" y="120" class="label">JavaScript</text>
+    <text x="235" y="120" text-anchor="end" class="value">2.7%</text>
+
+    <circle cx="7" cy="151" r="7" fill="#563D7C" />
+    <text x="25" y="156" class="label">CSS</text>
+    <text x="235" y="156" text-anchor="end" class="value">2.2%</text>
+
+    <circle cx="7" cy="187" r="7" fill="#8C959F" />
+    <text x="25" y="192" class="label">Other</text>
+    <text x="235" y="192" text-anchor="end" class="value">0.6%</text>
+  </g>
+
+  <text x="310" y="278" text-anchor="middle" class="caption">Snapshot from GitHub Linguist byte counts · 2026-08-25</text>
+</svg>
