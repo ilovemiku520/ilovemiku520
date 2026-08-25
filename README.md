@@ -24,7 +24,7 @@
 
 ![Language usage across public repositories](./assets/language-usage.svg)
 
-<sub>The chart summarizes GitHub Linguist byte counts across public repositories; it is not a measure of proficiency.</sub>
+<sub>The chart is refreshed weekly from GitHub Linguist byte counts across public, non-fork repositories; it is not a measure of proficiency.</sub>
 
 ## Tools
 
