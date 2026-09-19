@@ -1,9 +1,9 @@
 # ilovemiku520
 
-**统计学本科 · 数据分析 · 游戏数值设计 · 量化研究 · 本地 AI**  
+**统计学 · 数据分析 · 游戏数值设计 · 量化研究**  
 **Statistics · Data analytics · Game systems · Quantitative research · Local AI**
 
-我学习统计学，关注游戏数据分析、数值策划与量化研究实习机会，可随时到岗，喜欢把数据问题做成可以运行、复核和交互体验的项目。从采集与数据库，到建模、可视化和应用界面，我关注完整流程，也重视结果的边界：区分真实数据与演示数据，保留实验依据，不把原型当成已经验证的产品。
+我学习统计学，关注游戏数据分析、数值策划与量化研究实习与校招机会，可随时到岗，喜欢把数据问题做成可以运行、复核和交互体验的项目。从采集与数据库，到建模、可视化和应用界面，我关注完整流程，也重视结果边界。
 
 I'm a statistics undergraduate, interested in internships in game analytics, game systems design and quantitative research, available to start immediately. I build projects that connect data collection, databases, modeling and interactive applications. I care about reproducibility, data quality and clear limitations—especially the distinction between real experiments and synthetic demos.
 
@@ -12,7 +12,7 @@ I'm a statistics undergraduate, interested in internships in game analytics, gam
 **中国南水北调新能源投资有限公司 · 北京 · 实习生**  
 **2026.09 初 - 至今**
 
-学习本地模型部署与公文写作 Skill，开发本地文件脱敏工具，实现本地公文自动化写作流程。公开作品 [Local File Redactor](https://github.com/ilovemiku520/local-file-redactor) 结合 Qwen3.5 9B、OCR、规则识别和人工复核，支持多格式处理与加密恢复；公开验证使用合成样例。
+利用本地模型部署与公文写作 Skill，开发本地文件脱敏工具，实现本地公文自动化写作流程。公开作品 [Local File Redactor](https://github.com/ilovemiku520/local-file-redactor) 结合 Qwen3.5 9B、OCR、规则识别和人工复核，支持多格式处理与加密恢复；公开验证使用合成样例。
 
 Interning in Beijing since early September 2026. Learning local model deployment and document-writing skills, developing a local redaction tool and implementing a local workflow for automated official-document drafting. Public examples use synthetic documents.
 
@@ -37,7 +37,7 @@ Each project documents its current implementation, evidence and limitations; pro
 
 ## 我关注的方向 / Interests
 
-- **数学与统计基础**：概率论、数理统计、应用随机过程、高等代数与时间序列；关注概率分布、期望方差、参数估计、假设检验和矩阵运算。
+- **数学与统计基础**：概率论、数理统计、应用随机过程、高等代数、时间序列、多元回归分析、泛函分析、机器学习等专业课程基础；具有概率分布、参数估计、假设检验和矩阵运算等统计学基础知识。
 - **游戏数值与系统**：在知斗原型中实践双货币产出与回收、离散随机报价、卡牌数值、费用与奖惩结算。
 - **统计与建模**：横截面排序、PCA / 岭回归、模型解释、时间切分与回测评估。
 - **数据工程**：数据质量、增量采集、数据库设计、可复核的实验与自动化流程。
