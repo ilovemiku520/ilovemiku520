@@ -3,7 +3,7 @@
 **统计学·数据分析·游戏产品设计·游戏数值设计·量化研究**  
 **Statistics · Data analytics · Game systems · Quantitative research · Local AI**
 
-我学习统计学，关注游戏数据分析、数值策划与量化研究实习与校招机会，可随时到岗，喜欢把数据问题做成可以运行、复核和交互体验的项目。从采集与数据库，到建模、可视化和应用界面，我关注完整流程，也重视结果边界。
+我学习统计学，关注游戏行业数据分析、游戏策划与量化研究实习与校招机会，可随时到岗，喜欢把数据问题做成可以运行、复核和交互体验的项目。从采集与数据库，到建模、可视化和应用界面，我关注完整流程，也重视结果边界。
 
 I'm a statistics undergraduate, interested in internships in game analytics, game systems design and quantitative research, available to start immediately. I build projects that connect data collection, databases, modeling and interactive applications. I care about reproducibility, data quality and clear limitations—especially the distinction between real experiments and synthetic demos.
 
