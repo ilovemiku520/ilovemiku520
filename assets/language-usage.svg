@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="300" viewBox="0 0 620 300" role="img" aria-labelledby="title desc">
   <title id="title">Language usage across public repositories</title>
-  <desc id="desc">Python 77.2 percent, TypeScript 11.1 percent, PowerShell 6.5 percent, JavaScript 2.5 percent, CSS 2.0 percent, Other 0.6 percent.</desc>
+  <desc id="desc">Python 70.0 percent, TypeScript 12.8 percent, JavaScript 6.6 percent, PowerShell 6.0 percent, CSS 2.7 percent, Other 1.9 percent.</desc>
   <style>
     .label { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #24292f; }
     .value { font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
@@ -14,12 +14,12 @@
 
   <g transform="rotate(-90 145 145)" fill="none" stroke-width="48">
     <circle cx="145" cy="145" r="88" pathLength="100" stroke="#d8dee4" opacity="0.35" />
-    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#3572A5" stroke-dasharray="77.2199 22.7801" stroke-dashoffset="-0.0000" />
-    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#3178C6" stroke-dasharray="11.1155 88.8845" stroke-dashoffset="-77.2199" />
-    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#012456" stroke-dasharray="6.4979 93.5021" stroke-dashoffset="-88.3354" />
-    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#F1E05A" stroke-dasharray="2.5365 97.4635" stroke-dashoffset="-94.8333" />
-    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#563D7C" stroke-dasharray="2.0379 97.9621" stroke-dashoffset="-97.3699" />
-    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#8C959F" stroke-dasharray="0.5922 99.4078" stroke-dashoffset="-99.4078" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#3572A5" stroke-dasharray="69.9821 30.0179" stroke-dashoffset="-0.0000" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#3178C6" stroke-dasharray="12.7924 87.2076" stroke-dashoffset="-69.9821" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#F1E05A" stroke-dasharray="6.5586 93.4414" stroke-dashoffset="-82.7745" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#012456" stroke-dasharray="5.9841 94.0159" stroke-dashoffset="-89.3331" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#563D7C" stroke-dasharray="2.7438 97.2562" stroke-dashoffset="-95.3172" />
+    <circle cx="145" cy="145" r="88" pathLength="100" stroke="#8C959F" stroke-dasharray="1.9390 98.0610" stroke-dashoffset="-98.0610" />
   </g>
 
   <text x="145" y="139" text-anchor="middle" class="label">Public repos</text>
@@ -28,27 +28,27 @@
   <g transform="translate(300 47)">
     <circle cx="7" cy="7" r="7" fill="#3572A5" />
     <text x="25" y="12" class="label">Python</text>
-    <text x="235" y="12" text-anchor="end" class="value">77.2%</text>
+    <text x="235" y="12" text-anchor="end" class="value">70.0%</text>
 
     <circle cx="7" cy="43" r="7" fill="#3178C6" />
     <text x="25" y="48" class="label">TypeScript</text>
-    <text x="235" y="48" text-anchor="end" class="value">11.1%</text>
+    <text x="235" y="48" text-anchor="end" class="value">12.8%</text>
 
-    <circle cx="7" cy="79" r="7" fill="#012456" />
-    <text x="25" y="84" class="label">PowerShell</text>
-    <text x="235" y="84" text-anchor="end" class="value">6.5%</text>
+    <circle cx="7" cy="79" r="7" fill="#F1E05A" />
+    <text x="25" y="84" class="label">JavaScript</text>
+    <text x="235" y="84" text-anchor="end" class="value">6.6%</text>
 
-    <circle cx="7" cy="115" r="7" fill="#F1E05A" />
-    <text x="25" y="120" class="label">JavaScript</text>
-    <text x="235" y="120" text-anchor="end" class="value">2.5%</text>
+    <circle cx="7" cy="115" r="7" fill="#012456" />
+    <text x="25" y="120" class="label">PowerShell</text>
+    <text x="235" y="120" text-anchor="end" class="value">6.0%</text>
 
     <circle cx="7" cy="151" r="7" fill="#563D7C" />
     <text x="25" y="156" class="label">CSS</text>
-    <text x="235" y="156" text-anchor="end" class="value">2.0%</text>
+    <text x="235" y="156" text-anchor="end" class="value">2.7%</text>
 
     <circle cx="7" cy="187" r="7" fill="#8C959F" />
     <text x="25" y="192" class="label">Other</text>
-    <text x="235" y="192" text-anchor="end" class="value">0.6%</text>
+    <text x="235" y="192" text-anchor="end" class="value">1.9%</text>
   </g>
 
   <text x="310" y="278" text-anchor="middle" class="caption">Updated automatically from GitHub Linguist byte counts</text>
