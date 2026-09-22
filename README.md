@@ -1,16 +1,17 @@
 # ilovemiku520
 
-你好，欢迎来到我的主页 👋
+Hi there, welcome to my profile 👋
 
-喜欢初音未来、VOCALOID，正在学习作曲与编曲。
+I'm a fan of Hatsune Miku and VOCALOID, and I'm currently learning music composition and arrangement.
 
-平时也喜欢玩生存、模拟经营、沙盒和收集养成游戏，常玩的有《饥荒》《星露谷物语》《我的世界》和《宝可梦》系列。
+In my free time I enjoy survival, farming/simulation, sandbox, and collect-and-raise games — my go-tos are *Don't Starve*, *Stardew Valley*, *Minecraft*, and the *Pokémon* series.
 
-喜欢玩原神，哒哒哒哒哒，好想玩原神。
+I love Genshin Impact. Da-da-da-da-da, I really wanna play Genshin!
 
-欢迎聊聊音乐、游戏和喜欢的作品。
+Feel free to reach out to talk about music, games, and the works we love.
 
-## 联系我
+## Contact
 
 - Email: [ilovemiku520@outlook.com](mailto:ilovemiku520@outlook.com)
+
 
