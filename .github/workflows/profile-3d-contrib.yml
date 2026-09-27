@@ -1,6 +1,11 @@
 name: Update 3D contribution calendar
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/profile-3d-contrib.yml
   schedule:
     - cron: "0 18 * * *" # Daily at 02:00 China Standard Time (UTC+8)
   workflow_dispatch:
