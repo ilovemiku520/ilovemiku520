@@ -10,8 +10,10 @@ I love Genshin Impact. Da-da-da-da-da, I really wanna play Genshin!
 
 Feel free to reach out to talk about music, games, and the works we love.
 
+## GitHub Contributions
+
+![3D GitHub contribution calendar](./profile-3d-contrib/profile-green.svg)
+
 ## Contact
 
 - Email: [ilovemiku520@outlook.com](mailto:ilovemiku520@outlook.com)
-
-
