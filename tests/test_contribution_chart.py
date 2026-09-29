@@ -78,6 +78,14 @@ class ContributionHistoryTests(unittest.TestCase):
         self.assertEqual({node.attrib["data-date"] for node in columns}, {item["date"] for item in days})
         for year in (2023, 2024, 2025):
             self.assertTrue(any(node.attrib.get("aria-label") == f"{year} daily contributions" for node in root.iter()))
+        # A full-year panel must leave room for its own heading and bottom legend.
+        for index, panel in enumerate(node for node in root.iter() if "aria-label" in node.attrib):
+            top = 398 + index * 438
+            for node in panel.iter():
+                if "points" in node.attrib:
+                    for point in node.attrib["points"].split():
+                        _, y = map(float, point.split(","))
+                        self.assertTrue(top + 65 <= y < top + 380)
         # Every 3D face fits inside the SVG, including a complete leap year.
         for node in root.iter():
             if "points" in node.attrib:

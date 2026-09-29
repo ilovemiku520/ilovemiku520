@@ -180,7 +180,7 @@ def render_svg(history: dict) -> str:
         weeks = (last - sunday).days // 7 + 1
         # A short first/last year stays centered. Full years fit the same panel.
         dx = min(27.0, 1060 / (weeks + 7))
-        dy = min(dx * 0.44, 244 / (weeks + 7))
+        dy = min(dx * 0.44, 218 / (weeks + 7))
         left = 600 - (weeks + 7) * dx / 2
         base_y = top + 155
         parts.append(f'<g aria-label="{year} daily contributions">')
