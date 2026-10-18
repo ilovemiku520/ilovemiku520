@@ -28,3 +28,9 @@ From **July 15, 2026**, the day I joined GitHub, through the latest daily update
 ## Contact
 
 - Email: [ilovemiku520@outlook.com](mailto:ilovemiku520@outlook.com)
+- Google Email: [hatsunemikuismymaster@gmail.com](mailto:hatsunemikuismymaster@gmail.com)
+
+## Personal Blog
+
+- Blog: [https://ilovemiku.me](https://ilovemiku.me)
+- Access password: `hatsunemiku`
