@@ -2,6 +2,12 @@
 
 Hi there, welcome to my profile 👋
 
+<p align="center">
+  <a href="https://x.com/Sanye_mitsuyo/status/2094375527863963797">
+    <img src="./assets/miku.gif" alt="Hatsune Miku offering a graphics card — animation by 三夜 (@Sanye_mitsuyo)" width="600">
+  </a>
+</p>
+
 ## GitHub Contributions · Since Joining
 
 From **July 15, 2026**, the day I joined GitHub, through the latest daily update.
